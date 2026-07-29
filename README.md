@@ -79,4 +79,4 @@ Evolução do projeto console. As mesmas regras de negócio, agora servidas via 
 
 ## Licença
 
-Projeto educacional desenvolvido por **Vitor Cardoso**.
+Projeto desenvolvido por **Vitor Cardoso**.
